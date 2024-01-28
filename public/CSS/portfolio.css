@@ -1,0 +1,89 @@
+body{
+    background-image: linear-gradient(
+        180deg,
+        hsl(248deg 20% 28%) 0%,
+        hsl(227deg 19% 37%) 10%,
+        hsl(215deg 18% 46%) 20%,
+        hsl(207deg 19% 56%) 30%,
+        hsl(200deg 23% 66%) 40%,
+        hsl(193deg 28% 77%) 50%,
+        hsl(195deg 23% 67%) 60%,
+        hsl(196deg 21% 57%) 70%,
+        hsl(197deg 21% 47%) 80%,
+        hsl(198deg 31% 38%) 90%,
+        hsl(198deg 47% 28%) 100%
+      );
+
+background-repeat: no-repeat;
+
+    
+}
+a.navbar-brand{
+   margin-left: 30px;
+   font-weight: bold;
+   flex: 1;
+   
+font-family: 'Comfortaa', sans-serif;
+
+    
+}
+
+a.nav-link{
+
+}
+.navbar{
+    border-radius: 1rem;
+    background-image: linear-gradient(
+        45deg,
+        hsl(240deg 13% 95%) 0%,
+        hsl(244deg 3% 92%) 6%,
+        hsl(38deg 1% 88%) 13%,
+        hsl(53deg 3% 84%) 19%,
+        hsl(55deg 5% 80%) 25%,
+        hsl(56deg 6% 76%) 31%,
+        hsl(56deg 7% 71%) 37%,
+        hsl(56deg 8% 66%) 44%,
+        hsl(56deg 9% 61%) 50%,
+        hsl(47deg 9% 64%) 56%,
+        hsl(38deg 10% 67%) 63%,
+        hsl(30deg 12% 70%) 69%,
+        hsl(23deg 13% 73%) 75%,
+        hsl(17deg 14% 75%) 81%,
+        hsl(11deg 16% 78%) 87%,
+        hsl(5deg 19% 80%) 94%,
+        hsl(0deg 21% 83%) 100%
+      );
+    margin-bottom: 6rem;
+}
+.navbar-nav{
+    font-family: 'Abel', sans-serif;
+}
+
+.nav-button{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+}
+
+
+.intro-section{
+
+}
+.avpic:hover{
+    transition: all ease-in-out;
+    box-shadow: 2px;
+
+}
+
+.intro-text{
+    
+    font-family: 'Cute Font', sans-serif;
+    text-align: justify;
+    font-size: 2rem;
+}
+
+.img-div{
+    border-right: 2px solid black;
+    
+}
